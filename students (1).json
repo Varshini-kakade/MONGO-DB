@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Alice Smith",
+    "age": 20,
+    "courses": ["English", "Biology", "Chemistry"],
+    "gpa": 3.4,
+    "home_city": "New York City",
+    "blood_group": "A+",
+    "is_hotel_resident": true
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 22,
+    "courses": ["Computer Science", "Mathematics", "Physics"],
+    "gpa": 3.8,
+    "home_city": "Los Angeles",
+    "blood_group": "O-",
+    "is_hotel_resident": false
+  },
+  {
+    "name": "Charlie Lee",
+    "age": 19,
+    "courses": ["History", "English", "Psychology"],
+    "gpa": 3.2,
+    "home_city": "Chicago",
+    "blood_group": "B+",
+    "is_hotel_resident": true
+  },
+  {
+    "name": "Emily Jones",
+    "age": 21,
+    "courses": ["Mathematics", "Physics", "Statistics"],
+    "gpa": 3.6,
+    "home_city": "Houston",
+    "blood_group": "AB-",
+    "is_hotel_resident": false
+  },
+  {
+    "name": "David Williams",
+    "age": 23,
+    "courses": ["English", "Literature", "Philosophy"],
+    "gpa": 3.0,
+    "home_city": "Phoenix",
+    "blood_group": "A-",
+    "is_hotel_resident": true
+  },
+  {
+    "name": "Fatima Brown",
+    "age": 18,
+    "courses": ["Biology", "Chemistry", "Environmental Science"],
+    "gpa": 3.5,
+    "home_city": "San Antonio",
+    "blood_group": "B+",
+    "is_hotel_resident": false
+  },
+  {
+    "name": "Gabriel Miller",
+    "age": 24,
+    "courses": ["Computer Science", "Engineering", "Robotics"],
+    "gpa": 3.9,
+    "home_city": "San Diego",
+    "blood_group": "O+",
+    "is_hotel_resident": true
+  },
+  {
+    "name": "Hannah Garcia",
+    "age": 20,
+    "courses": ["History", "Political Science", "Sociology"],
+    "gpa": 3.3,
+    "home_city": "Dallas",
+    "blood_group": "AB+",
+    "is_hotel_resident": false
+  },
+  {
+    "name": "Isaac Clark",
+    "age": 22,
+    "courses": ["English", "Creative Writing", "Film Studies"],
+    "gpa": 3.7,
+    "home_city": "San Jose",
+    "blood_group": "A-",
+    "is_hotel_resident": false
+  },
+  {
+    "name": "Jessica Moore",
+    "age": 19,
+    "courses": ["Biology", "Ecology", "Marine Science"],
+    "gpa": 3.1,
+    "home_city": "Austin",
+    "blood_group": "B-",
+    "is_hotel_resident": true
+  },
+  {
+    "name": "Kevin Lewis",
+    "age": 21,
+    "courses": ["Computer Science", "Artificial Intelligence", "Cybersecurity"],
+    "gpa": 4.0,
+    "is_hotel_resident": false
+  },
+  {
+    "name": "Lily Robinson",
+    "age": 23,
+    "courses": ["History", "Art History", "Music History"],
+    "gpa": 3.5,
+    "home_city": "Jacksonville",
+    "blood_group": "AB-",
+    "is_hotel_resident": true
+  }
+]
