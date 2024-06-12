@@ -1,0 +1,501 @@
+name,age,courses,gpa,home_city,blood_group,is_hotel_resident
+Student 948,19,"['English', 'Computer Science', 'Physics', 'Mathematics']",3.44,City 2,O+,True
+Student 157,20,"['Physics', 'English']",2.27,City 4,O-,True
+Student 316,20,"['Physics', 'Computer Science', 'Mathematics', 'History']",2.32,,B+,True
+Student 346,25,"['Mathematics', 'History', 'English']",3.31,City 8,O-,True
+Student 930,25,"['English', 'Computer Science', 'Mathematics', 'History']",3.63,City 3,A-,True
+Student 305,24,"['History', 'Physics', 'Computer Science', 'Mathematics']",3.4,City 6,O+,True
+Student 268,21,"['Mathematics', 'History', 'Physics']",3.98,,A+,False
+Student 563,18,"['Mathematics', 'English']",2.25,,AB+,False
+Student 440,21,"['History', 'Physics', 'Computer Science']",2.06,City 10,O-,True
+Student 536,20,"['History', 'Physics', 'English', 'Mathematics']",2.87,City 3,O-,False
+Student 256,19,"['Computer Science', 'Mathematics', 'History', 'English']",2.94,City 1,B+,True
+Student 177,23,"['Mathematics', 'Computer Science', 'Physics']",2.52,City 10,A+,True
+Student 871,22,"['Mathematics', 'Computer Science']",3.2,,A-,False
+Student 487,21,"['History', 'Physics', 'Computer Science']",2.1,City 3,B-,True
+Student 213,18,"['English', 'History']",2.39,,B-,True
+Student 690,22,"['History', 'Physics', 'Mathematics']",2.25,City 7,AB-,True
+Student 368,20,"['English', 'History', 'Physics', 'Computer Science']",3.91,City 9,O-,False
+Student 172,25,"['English', 'History', 'Physics', 'Mathematics']",2.46,City 3,A+,False
+Student 647,21,"['English', 'Physics']",3.43,City 6,A+,True
+Student 232,18,"['Computer Science', 'Physics', 'History', 'Mathematics']",2.54,City 1,B-,True
+Student 328,21,"['Physics', 'Computer Science', 'English']",2.92,City 2,AB-,True
+Student 690,24,"['Computer Science', 'English', 'History']",2.71,,AB+,False
+Student 499,25,"['Mathematics', 'English', 'Computer Science', 'Physics']",2.04,,A+,False
+Student 468,21,"['Computer Science', 'Physics', 'Mathematics', 'History']",3.97,,A-,True
+Student 504,21,"['Physics', 'Computer Science', 'English', 'Mathematics']",2.42,City 2,B+,True
+Student 652,18,"['History', 'Computer Science']",3.93,City 8,B+,False
+Student 915,22,"['Computer Science', 'History', 'Physics', 'English']",2.87,,AB+,True
+Student 127,19,"['History', 'English', 'Computer Science', 'Mathematics']",2.56,City 10,AB+,False
+Student 239,21,"['English', 'Mathematics', 'Computer Science', 'Physics']",3.75,City 7,AB-,False
+Student 770,24,"['History', 'Computer Science', 'Mathematics', 'English']",2.98,,B-,False
+Student 367,25,"['History', 'Physics', 'Computer Science']",2.61,City 1,AB+,True
+Student 268,19,"['Mathematics', 'Computer Science']",2.61,,A-,False
+Student 384,18,"['Mathematics', 'Computer Science']",3.9,City 1,O-,False
+Student 372,25,"['History', 'Computer Science', 'Physics', 'Mathematics']",3.06,City 6,AB+,False
+Student 771,24,"['Computer Science', 'English', 'Physics', 'History']",3.59,City 7,O-,False
+Student 969,24,"['History', 'Mathematics', 'Physics', 'English']",3.71,,B+,True
+Student 502,25,"['Computer Science', 'Mathematics', 'English', 'Physics']",3.42,City 8,AB-,True
+Student 504,23,"['English', 'Mathematics', 'Computer Science']",2.4,City 6,B-,True
+Student 440,20,"['English', 'History']",2.32,City 6,A-,True
+Student 201,18,"['Mathematics', 'History', 'Physics']",2.66,City 9,O-,True
+Student 814,19,"['English', 'Physics', 'Computer Science', 'History']",3.58,,AB+,False
+Student 901,24,"['History', 'Computer Science']",2.19,City 2,,True
+Student 676,21,"['English', 'Physics', 'Mathematics', 'Computer Science']",3.59,City 2,AB+,True
+Student 533,21,"['English', 'Physics']",3.26,City 10,AB-,False
+Student 347,22,"['English', 'Computer Science', 'Physics']",2.17,,B-,True
+Student 404,25,"['Mathematics', 'Physics', 'Computer Science', 'English']",2.59,City 10,AB-,False
+Student 111,18,"['Physics', 'Computer Science']",2.99,,O+,False
+Student 873,21,"['History', 'Mathematics', 'Physics']",3.94,City 8,O+,False
+Student 871,19,"['Computer Science', 'English', 'History']",3.33,,O+,False
+Student 425,25,"['English', 'History', 'Computer Science']",2.88,,O+,True
+Student 610,18,"['Physics', 'History', 'Mathematics']",2.58,City 5,B+,False
+Student 539,23,"['Computer Science', 'History']",2.5,,A+,False
+Student 165,20,"['English', 'History', 'Mathematics', 'Computer Science']",2.92,City 3,B+,True
+Student 959,24,"['History', 'Computer Science']",3.43,City 3,A+,True
+Student 860,25,"['Physics', 'English', 'Mathematics', 'History']",2.03,City 10,O-,True
+Student 142,24,"['History', 'English', 'Physics', 'Computer Science']",3.41,City 5,A+,False
+Student 457,18,"['Mathematics', 'History', 'English', 'Physics']",3.87,City 3,AB-,True
+Student 990,19,"['English', 'Physics', 'Computer Science', 'History']",2.37,City 9,A-,True
+Student 522,18,"['Computer Science', 'History', 'English', 'Mathematics']",3.28,City 10,O+,False
+Student 789,19,"['Physics', 'English']",2.71,City 10,B-,False
+Student 895,20,"['Computer Science', 'Physics']",3.76,City 4,B-,False
+Student 592,19,"['Mathematics', 'English']",3.86,City 6,AB+,True
+Student 219,18,"['Physics', 'Computer Science', 'Mathematics', 'History']",3.4,City 5,B-,True
+Student 722,23,"['Physics', 'History', 'Computer Science', 'Mathematics']",3.75,City 3,O+,False
+Student 159,20,"['Computer Science', 'Physics', 'Mathematics', 'English']",3.76,City 9,AB-,False
+Student 833,25,"['Computer Science', 'Physics']",2.06,City 5,AB+,False
+Student 909,21,"['English', 'History', 'Physics', 'Computer Science']",2.4,City 6,O+,False
+Student 632,23,"['Physics', 'English', 'Computer Science']",3.76,City 5,AB-,True
+Student 994,23,"['Computer Science', 'Physics', 'English']",3.57,City 8,B-,True
+Student 515,22,"['English', 'History']",2.36,City 6,A-,True
+Student 746,21,"['Computer Science', 'Mathematics', 'History', 'English']",2.43,City 8,,True
+Student 402,25,"['Physics', 'Mathematics', 'History', 'Computer Science']",3.83,City 4,AB-,False
+Student 193,19,"['English', 'Mathematics', 'Physics', 'Computer Science']",2.62,City 8,A+,False
+Student 925,20,"['English', 'History', 'Mathematics']",2.06,City 10,AB+,False
+Student 833,21,"['Mathematics', 'English', 'History', 'Computer Science']",3.86,City 7,B+,True
+Student 301,22,"['History', 'Computer Science', 'Physics', 'English']",2.73,,A+,True
+Student 984,19,"['Physics', 'Mathematics', 'English']",2.17,City 7,AB-,True
+Student 378,25,"['English', 'History', 'Computer Science', 'Physics']",2.49,City 7,B-,True
+Student 886,23,"['Physics', 'English', 'Mathematics']",2.42,City 6,A+,True
+Student 367,19,"['English', 'Physics', 'History', 'Mathematics']",2.81,City 2,B+,False
+Student 781,22,"['History', 'Mathematics', 'Physics']",2.41,City 10,O+,False
+Student 430,20,"['English', 'Mathematics']",2.94,City 9,O+,False
+Student 887,20,"['English', 'Computer Science', 'Physics', 'History']",2.81,City 4,AB-,True
+Student 314,21,"['Mathematics', 'Physics', 'History', 'English']",3.09,,O+,False
+Student 517,21,"['English', 'History']",2.05,City 2,O-,False
+Student 357,18,"['History', 'Computer Science']",3.85,,AB+,True
+Student 871,21,"['History', 'English', 'Physics', 'Computer Science']",3.33,,AB+,True
+Student 508,22,"['Mathematics', 'Physics']",3.48,,O+,False
+Student 803,24,"['Computer Science', 'History', 'Physics', 'English']",2.89,City 8,O+,False
+Student 989,24,"['Computer Science', 'Mathematics']",3.32,City 5,,True
+Student 291,25,"['English', 'Mathematics', 'Physics']",3.74,City 1,B+,False
+Student 502,25,"['Computer Science', 'Physics']",3.94,City 7,B-,False
+Student 220,22,"['Mathematics', 'History']",2.24,City 1,,False
+Student 175,21,"['English', 'Physics']",3.99,City 5,B+,False
+Student 857,20,"['Physics', 'English']",3.79,City 10,AB-,True
+Student 279,19,"['English', 'History', 'Computer Science', 'Physics']",3.34,City 8,B+,False
+Student 352,24,"['Physics', 'History', 'English', 'Computer Science']",2.11,,AB-,False
+Student 212,25,"['History', 'Mathematics', 'Computer Science', 'English']",3.73,City 10,AB+,False
+Student 148,20,"['History', 'Mathematics', 'English', 'Computer Science']",3.86,,O-,True
+Student 558,24,"['Physics', 'Computer Science']",3.91,,B+,False
+Student 880,24,"['History', 'Mathematics', 'English', 'Computer Science']",3.12,City 5,O-,True
+Student 110,24,"['Physics', 'History', 'English', 'Mathematics']",2.71,City 10,B+,True
+Student 908,24,"['English', 'Physics', 'Computer Science', 'History']",2.91,City 9,A-,False
+Student 920,25,"['Mathematics', 'History', 'English']",2.4,City 10,B+,True
+Student 880,18,"['Computer Science', 'Physics', 'English']",2.84,,AB+,False
+Student 543,18,"['English', 'History', 'Mathematics']",2.41,City 9,O+,False
+Student 129,22,"['History', 'Computer Science', 'Physics']",3.47,City 7,A+,True
+Student 262,20,"['English', 'Computer Science', 'Physics']",2.81,,O+,False
+Student 710,19,"['Computer Science', 'Mathematics']",2.93,,A-,False
+Student 422,22,"['Physics', 'Mathematics']",2.09,City 3,AB+,True
+Student 821,25,"['Mathematics', 'Physics']",2.63,City 10,O+,False
+Student 465,21,"['English', 'Physics', 'Computer Science', 'Mathematics']",2.75,City 1,A-,True
+Student 703,24,"['Mathematics', 'English']",3.08,,B+,False
+Student 243,25,"['Physics', 'Mathematics', 'History', 'Computer Science']",2.78,,,False
+Student 517,22,"['Physics', 'Mathematics', 'History', 'English']",2.61,,A+,True
+Student 780,25,"['English', 'History', 'Computer Science', 'Physics']",3.38,City 10,A+,True
+Student 932,22,"['History', 'Physics', 'Mathematics']",3.81,,O+,True
+Student 902,19,"['Physics', 'Mathematics', 'History', 'English']",2.9,City 4,O+,False
+Student 638,19,"['History', 'English']",3.44,City 7,AB-,False
+Student 724,23,"['Physics', 'History']",3.26,City 7,O-,False
+Student 753,25,"['English', 'Mathematics', 'History']",3.91,,B-,False
+Student 628,24,"['Mathematics', 'Computer Science', 'Physics', 'English']",2.12,City 7,O+,False
+Student 799,25,"['Mathematics', 'Computer Science', 'Physics', 'History']",2.32,,O+,True
+Student 876,20,"['English', 'Physics', 'Mathematics', 'Computer Science']",2.16,,B-,True
+Student 928,21,"['Computer Science', 'Physics', 'English', 'History']",2.16,City 5,AB-,True
+Student 617,25,"['History', 'Computer Science', 'Physics', 'English']",3.11,City 7,AB-,True
+Student 990,18,"['Mathematics', 'Computer Science', 'English', 'Physics']",2.72,,O-,True
+Student 949,23,"['Mathematics', 'Computer Science', 'Physics', 'History']",2.8,City 7,A-,False
+Student 575,24,"['English', 'History', 'Computer Science']",3.61,City 9,O-,False
+Student 450,23,"['Mathematics', 'English']",2.97,,O-,False
+Student 514,22,"['Physics', 'English']",2.05,City 7,B-,False
+Student 549,20,"['History', 'Physics']",3.6,City 9,B+,True
+Student 634,25,"['Mathematics', 'Physics', 'History']",3.36,,,False
+Student 610,25,"['Physics', 'Computer Science', 'Mathematics', 'English']",3.34,City 7,A-,False
+Student 586,25,"['History', 'Physics', 'Computer Science', 'Mathematics']",3.2,City 9,B-,False
+Student 181,22,"['Mathematics', 'Physics', 'English', 'Computer Science']",2.71,City 8,A+,False
+Student 252,19,"['History', 'Physics', 'Mathematics']",2.8,,B+,False
+Student 767,19,"['English', 'History', 'Mathematics', 'Physics']",3.6,City 5,B-,False
+Student 988,18,"['History', 'Computer Science', 'Mathematics', 'Physics']",2.96,City 2,O+,False
+Student 361,21,"['History', 'English', 'Computer Science', 'Mathematics']",3.64,City 6,B-,True
+Student 737,20,"['Physics', 'History', 'Mathematics', 'Computer Science']",2.27,City 7,O+,False
+Student 205,22,"['History', 'Computer Science', 'English']",3.22,,B-,False
+Student 239,22,"['English', 'Mathematics']",2.06,City 4,O-,True
+Student 276,23,"['History', 'Physics']",2.43,,A-,True
+Student 402,18,"['Computer Science', 'Mathematics', 'English']",3.4,City 2,A-,True
+Student 779,19,"['Mathematics', 'History', 'English']",3.38,City 5,O-,False
+Student 440,19,"['Physics', 'Mathematics', 'Computer Science', 'English']",2.17,City 7,AB-,True
+Student 998,19,"['Computer Science', 'Mathematics', 'Physics', 'History']",3.27,,B-,True
+Student 336,19,"['Physics', 'Mathematics', 'History']",3.41,City 6,B+,True
+Student 322,24,"['Mathematics', 'Physics', 'History', 'English']",2.01,City 1,O+,False
+Student 236,25,"['Computer Science', 'History', 'Mathematics', 'English']",3.24,,A+,False
+Student 869,18,"['Computer Science', 'History']",3.26,City 5,A-,False
+Student 266,20,"['Physics', 'Computer Science', 'Mathematics', 'English']",3.76,City 10,B+,False
+Student 443,22,"['Computer Science', 'Mathematics']",2.01,,B+,False
+Student 985,21,"['English', 'Computer Science', 'History', 'Physics']",2.76,City 4,B+,True
+Student 279,24,"['History', 'Computer Science']",2.48,,,False
+Student 128,24,"['Mathematics', 'History']",2.22,City 10,,True
+Student 953,20,"['English', 'History', 'Physics']",3.38,,O+,True
+Student 223,25,"['Computer Science', 'English', 'History', 'Physics']",3.32,City 8,B+,False
+Student 346,25,"['Mathematics', 'Computer Science', 'Physics']",3.11,City 8,A-,True
+Student 885,25,"['Computer Science', 'Mathematics', 'History', 'English']",2.19,City 5,O-,False
+Student 246,24,"['History', 'Computer Science']",3.56,City 9,AB+,True
+Student 197,21,"['History', 'Mathematics', 'Computer Science', 'English']",2.57,City 4,O+,True
+Student 267,20,"['Computer Science', 'Physics', 'Mathematics', 'English']",2.5,City 4,B+,True
+Student 378,19,"['Physics', 'History']",2.3,City 6,A-,False
+Student 796,18,"['Mathematics', 'Computer Science', 'History', 'Physics']",2.54,,B+,True
+Student 331,25,"['Computer Science', 'Physics']",2.04,City 4,B+,False
+Student 580,23,"['Computer Science', 'English']",2.29,City 5,AB-,False
+Student 683,24,"['Mathematics', 'English', 'Physics']",2.33,,O+,True
+Student 180,19,"['History', 'Physics']",2.54,City 9,AB-,True
+Student 949,18,"['History', 'Mathematics']",2.77,,,True
+Student 530,20,"['English', 'Physics', 'Mathematics', 'History']",3.0,City 1,B-,True
+Student 728,21,"['Mathematics', 'English']",2.78,City 2,AB+,False
+Student 287,21,"['Physics', 'English', 'Mathematics']",2.69,,,True
+Student 868,20,"['Computer Science', 'Mathematics']",2.4,City 3,B-,False
+Student 488,24,"['Mathematics', 'English', 'Computer Science']",2.57,City 8,,False
+Student 702,22,"['History', 'Mathematics', 'English']",3.74,City 1,O-,False
+Student 618,24,"['Physics', 'Computer Science', 'English']",2.64,City 7,AB+,False
+Student 457,23,"['Computer Science', 'Mathematics']",2.11,City 10,O+,True
+Student 392,19,"['Mathematics', 'Physics']",2.35,City 9,B-,True
+Student 682,23,"['Physics', 'Computer Science', 'Mathematics', 'History']",3.4,City 1,O-,False
+Student 743,22,"['History', 'Mathematics', 'Physics', 'English']",2.03,City 8,A+,False
+Student 216,25,"['Mathematics', 'Physics']",2.62,City 10,O+,False
+Student 766,21,"['English', 'History', 'Physics', 'Mathematics']",2.84,City 6,O+,False
+Student 463,24,"['English', 'History', 'Mathematics', 'Physics']",3.24,City 10,O+,True
+Student 665,20,"['History', 'Physics', 'Mathematics']",2.53,City 8,AB-,True
+Student 267,20,"['History', 'Computer Science']",3.25,,,False
+Student 831,24,"['Mathematics', 'Computer Science']",2.12,,O+,False
+Student 859,23,"['Computer Science', 'Mathematics']",2.42,City 3,O-,True
+Student 156,20,"['English', 'Physics', 'History']",2.77,City 10,A+,True
+Student 298,24,"['Computer Science', 'History', 'Physics']",3.11,,A+,False
+Student 973,20,"['Physics', 'English', 'History']",2.01,City 10,AB+,False
+Student 766,22,"['Computer Science', 'Physics']",3.64,City 6,A-,False
+Student 763,23,"['Mathematics', 'Physics', 'English', 'Computer Science']",2.37,City 3,AB+,True
+Student 171,23,"['English', 'Computer Science', 'History']",3.54,City 5,B+,False
+Student 653,20,"['English', 'Physics', 'Mathematics', 'Computer Science']",3.54,City 10,AB-,False
+Student 912,21,"['English', 'Mathematics']",2.11,,O+,True
+Student 918,19,"['Physics', 'Computer Science']",3.92,City 3,A+,True
+Student 104,23,"['History', 'Physics', 'English', 'Mathematics']",3.38,City 10,B-,True
+Student 646,23,"['Physics', 'Computer Science', 'History']",2.51,,AB-,False
+Student 726,22,"['History', 'Mathematics']",3.89,City 2,AB-,False
+Student 261,24,"['History', 'Mathematics']",3.04,,,True
+Student 305,25,"['Physics', 'Computer Science', 'Mathematics']",2.33,City 6,O+,True
+Student 863,25,"['English', 'Physics', 'Computer Science']",3.52,,O-,False
+Student 115,25,"['History', 'Computer Science', 'English']",3.85,City 10,B-,True
+Student 167,25,"['English', 'History', 'Mathematics']",3.89,,A+,False
+Student 784,25,"['History', 'English', 'Computer Science']",3.01,,O-,False
+Student 801,21,"['English', 'Computer Science', 'Mathematics', 'History']",3.94,,,True
+Student 369,23,"['English', 'Computer Science']",2.53,,O-,False
+Student 585,18,"['Computer Science', 'Physics']",2.19,City 5,O-,False
+Student 321,22,"['History', 'Physics']",3.29,City 6,,True
+Student 325,21,"['History', 'Computer Science', 'English']",3.41,,O+,False
+Student 921,20,"['Mathematics', 'History', 'Computer Science', 'English']",3.75,,AB-,True
+Student 615,21,"['English', 'History']",3.84,City 4,AB+,False
+Student 376,20,"['English', 'Physics']",2.88,City 4,B-,False
+Student 654,21,"['English', 'Mathematics', 'Physics', 'Computer Science']",3.4,City 3,AB-,False
+Student 424,19,"['Mathematics', 'History']",3.79,,B-,False
+Student 578,20,"['History', 'English', 'Physics', 'Mathematics']",2.98,City 5,AB+,True
+Student 601,23,"['Mathematics', 'English', 'History', 'Computer Science']",3.9,City 10,B-,False
+Student 255,21,"['English', 'Physics']",2.85,City 2,B+,False
+Student 425,19,"['Mathematics', 'Computer Science']",3.98,,B-,True
+Student 913,20,"['Computer Science', 'History']",2.24,City 3,AB+,True
+Student 601,19,"['History', 'Computer Science', 'English']",3.5,,A-,False
+Student 199,21,"['Computer Science', 'Mathematics', 'Physics', 'History']",2.21,City 3,O-,False
+Student 548,19,"['Physics', 'English', 'Computer Science']",2.39,,AB+,True
+Student 699,24,"['Mathematics', 'History']",2.43,City 4,B-,True
+Student 853,20,"['English', 'Computer Science']",3.66,,,True
+Student 912,22,"['History', 'Computer Science', 'English', 'Physics']",2.39,City 1,AB-,False
+Student 649,25,"['English', 'Computer Science', 'History']",2.61,,AB+,False
+Student 470,23,"['English', 'History', 'Physics']",3.19,City 8,AB+,False
+Student 552,20,"['Physics', 'History', 'English', 'Computer Science']",3.56,City 5,B-,True
+Student 281,18,"['History', 'Mathematics', 'Physics', 'Computer Science']",2.2,City 2,B+,False
+Student 975,18,"['Physics', 'History']",3.57,City 8,O+,True
+Student 606,19,"['English', 'Physics', 'Mathematics']",2.81,,AB-,True
+Student 681,20,"['English', 'Physics']",3.2,City 6,A+,False
+Student 867,24,"['English', 'Physics', 'History']",2.89,City 1,AB+,False
+Student 982,20,"['Physics', 'English']",3.44,City 1,B+,True
+Student 690,20,"['Mathematics', 'Physics', 'English', 'Computer Science']",3.97,City 2,AB+,False
+Student 650,23,"['Physics', 'Computer Science', 'History']",2.77,City 1,A+,True
+Student 864,20,"['English', 'Computer Science']",2.3,,B+,True
+Student 846,25,"['Physics', 'History', 'Mathematics']",2.57,,B+,True
+Student 558,20,"['History', 'Computer Science', 'Physics']",3.18,City 2,AB+,True
+Student 315,21,"['History', 'English']",2.49,,O-,False
+Student 691,23,"['Computer Science', 'History', 'Mathematics']",2.24,,AB-,True
+Student 751,25,"['Computer Science', 'Physics', 'English']",3.37,City 9,,True
+Student 398,21,"['English', 'History', 'Mathematics']",3.59,City 8,O-,True
+Student 732,22,"['History', 'Physics', 'Mathematics', 'Computer Science']",2.23,City 2,A-,False
+Student 743,20,"['History', 'Mathematics', 'Physics', 'English']",2.32,City 7,O-,False
+Student 797,19,"['Computer Science', 'English', 'Physics', 'History']",3.69,City 10,A+,True
+Student 873,20,"['Computer Science', 'Physics', 'History', 'English']",3.7,,AB+,False
+Student 591,21,"['Physics', 'Computer Science', 'Mathematics', 'History']",2.11,,B-,False
+Student 627,24,"['Mathematics', 'Physics', 'English']",2.43,,A+,False
+Student 158,24,"['Physics', 'Computer Science']",3.16,City 1,AB+,False
+Student 463,24,"['History', 'Computer Science', 'Physics', 'English']",3.85,,A+,False
+Student 426,25,"['Physics', 'English', 'Mathematics', 'Computer Science']",3.17,City 7,O+,True
+Student 629,20,"['Physics', 'Computer Science', 'Mathematics']",2.69,City 1,AB+,False
+Student 108,23,"['Computer Science', 'History']",2.61,City 4,O+,False
+Student 188,19,"['Mathematics', 'History', 'Physics', 'English']",3.25,City 5,O+,True
+Student 232,18,"['English', 'Physics', 'History', 'Mathematics']",3.36,City 6,B+,True
+Student 460,21,"['Mathematics', 'Computer Science', 'English']",3.94,,,False
+Student 856,22,"['Physics', 'English']",3.3,City 5,A-,True
+Student 699,19,"['History', 'English', 'Mathematics']",2.01,,O-,True
+Student 895,21,"['English', 'Computer Science']",3.57,City 1,,False
+Student 564,24,"['Computer Science', 'Physics', 'History', 'English']",3.26,,AB+,False
+Student 411,21,"['Physics', 'English']",3.74,City 10,A+,False
+Student 500,18,"['Physics', 'Computer Science', 'English']",3.49,,B+,True
+Student 852,19,"['History', 'Mathematics']",3.69,City 6,A-,True
+Student 679,24,"['Computer Science', 'Mathematics', 'History']",3.83,,O-,False
+Student 728,24,"['Mathematics', 'Physics', 'English']",3.95,City 3,A+,True
+Student 431,20,"['English', 'History']",2.22,,O-,True
+Student 938,20,"['Physics', 'Computer Science']",2.12,City 7,A+,False
+Student 216,20,"['History', 'Physics', 'English']",2.13,,A-,True
+Student 712,22,"['History', 'Mathematics', 'Physics', 'English']",3.31,,AB-,True
+Student 320,19,"['Mathematics', 'Computer Science', 'English', 'History']",2.52,City 7,AB-,False
+Student 469,18,"['Mathematics', 'Physics', 'History']",3.99,,B-,True
+Student 554,23,"['History', 'English']",3.81,,AB-,True
+Student 571,20,"['Mathematics', 'English']",3.93,City 10,O-,False
+Student 675,19,"['English', 'Mathematics']",2.89,City 1,A+,True
+Student 505,18,"['Computer Science', 'Physics']",2.46,City 5,B+,True
+Student 892,22,"['Mathematics', 'Physics']",3.89,City 9,A-,True
+Student 185,19,"['History', 'Physics', 'Computer Science', 'Mathematics']",3.82,City 4,O+,False
+Student 327,22,"['Mathematics', 'Computer Science']",3.46,,A-,False
+Student 594,18,"['Mathematics', 'English', 'Computer Science']",3.6,,,False
+Student 818,20,"['Mathematics', 'Physics']",2.87,City 9,,True
+Student 460,21,"['Computer Science', 'Mathematics']",3.12,,A+,False
+Student 128,25,"['History', 'Computer Science', 'Physics']",2.48,City 1,AB-,False
+Student 333,24,"['Computer Science', 'Mathematics']",2.47,,B+,True
+Student 542,22,"['English', 'History', 'Physics', 'Mathematics']",2.15,City 5,AB+,True
+Student 720,22,"['History', 'Physics', 'English', 'Computer Science']",2.27,City 2,O+,True
+Student 361,18,"['English', 'Physics', 'History', 'Computer Science']",3.43,City 6,AB-,False
+Student 917,22,"['English', 'History', 'Physics', 'Computer Science']",2.22,City 5,AB-,False
+Student 956,19,"['Computer Science', 'English']",3.36,,AB-,False
+Student 262,25,"['Computer Science', 'Physics']",2.9,,O-,False
+Student 105,20,"['Computer Science', 'Physics']",3.68,City 2,O-,True
+Student 526,20,"['History', 'English', 'Computer Science']",3.0,,O+,False
+Student 228,24,"['Mathematics', 'Physics', 'English']",2.51,City 10,O+,False
+Student 102,23,"['Mathematics', 'Computer Science']",2.88,City 4,,False
+Student 654,19,"['History', 'Mathematics', 'English']",2.61,City 6,O-,True
+Student 652,21,"['Mathematics', 'Computer Science', 'English']",2.88,,B+,True
+Student 965,18,"['History', 'Physics']",3.11,,B+,False
+Student 929,24,"['Computer Science', 'History', 'Mathematics']",2.18,City 9,B-,True
+Student 370,21,"['Physics', 'English']",2.53,City 7,A-,False
+Student 764,23,"['English', 'Physics', 'Computer Science']",2.85,City 9,O-,True
+Student 917,19,"['Computer Science', 'Physics', 'English']",2.89,City 3,A-,True
+Student 161,22,"['Mathematics', 'English', 'Computer Science', 'History']",2.87,City 6,O+,False
+Student 820,18,"['History', 'Computer Science', 'Mathematics', 'English']",2.39,City 10,B+,False
+Student 356,23,"['Mathematics', 'English']",2.23,City 9,A-,True
+Student 741,23,"['History', 'Computer Science']",3.49,City 4,O-,False
+Student 289,23,"['Mathematics', 'Computer Science', 'English', 'Physics']",3.34,,A-,False
+Student 289,18,"['History', 'Physics']",2.89,City 2,B+,False
+Student 630,18,"['English', 'History', 'Physics']",2.23,City 1,A-,True
+Student 589,19,"['Computer Science', 'Physics', 'History']",3.42,City 9,A-,False
+Student 514,19,"['Physics', 'English', 'Mathematics', 'Computer Science']",2.88,City 10,AB+,False
+Student 448,21,"['Physics', 'Computer Science', 'History']",3.51,City 9,B-,False
+Student 959,19,"['Mathematics', 'English', 'History', 'Physics']",3.73,,B+,False
+Student 999,22,"['English', 'History', 'Physics']",3.54,City 6,AB-,True
+Student 739,24,"['Computer Science', 'English', 'History']",2.41,City 7,B+,False
+Student 368,23,"['Physics', 'History', 'English']",2.83,City 8,B+,False
+Student 208,20,"['Computer Science', 'English', 'History', 'Physics']",2.81,City 6,AB+,True
+Student 308,18,"['English', 'Mathematics', 'History', 'Physics']",2.18,,B-,True
+Student 624,25,"['English', 'Computer Science', 'Mathematics']",3.14,,AB-,True
+Student 576,24,"['Mathematics', 'History']",2.95,,,False
+Student 743,23,"['Computer Science', 'Physics']",3.84,City 5,AB+,False
+Student 168,21,"['Mathematics', 'History', 'Computer Science']",2.66,,O-,False
+Student 556,21,"['History', 'Mathematics', 'Computer Science']",2.55,City 5,A-,False
+Student 828,22,"['History', 'Computer Science']",3.77,City 5,O-,False
+Student 973,25,"['Physics', 'English', 'History', 'Computer Science']",2.22,,B+,False
+Student 501,24,"['History', 'English', 'Computer Science', 'Mathematics']",3.41,,AB-,True
+Student 410,19,"['History', 'Physics']",3.77,City 2,AB-,True
+Student 432,21,"['History', 'Physics', 'Mathematics']",3.96,City 9,AB+,True
+Student 493,19,"['Computer Science', 'Physics']",3.02,City 1,O-,True
+Student 549,21,"['Computer Science', 'English', 'Mathematics']",3.76,City 2,AB+,False
+Student 619,19,"['History', 'English']",2.54,City 8,O+,True
+Student 543,18,"['Computer Science', 'English']",2.21,City 9,A+,False
+Student 354,20,"['English', 'Mathematics']",2.43,City 8,AB+,True
+Student 427,23,"['Computer Science', 'Physics', 'Mathematics', 'History']",3.43,City 8,B+,False
+Student 289,18,"['English', 'Mathematics', 'Physics']",3.64,City 3,B-,False
+Student 596,25,"['Computer Science', 'Mathematics']",2.76,City 1,AB+,True
+Student 652,24,"['Mathematics', 'English', 'Computer Science', 'History']",2.81,City 9,O-,False
+Student 650,19,"['Computer Science', 'English', 'Physics', 'Mathematics']",2.19,,AB-,True
+Student 819,20,"['Physics', 'English']",2.96,City 1,O-,False
+Student 498,25,"['Physics', 'History', 'Computer Science']",3.18,,A+,True
+Student 707,18,"['Computer Science', 'Physics', 'Mathematics', 'History']",2.21,City 3,O-,True
+Student 947,20,"['Physics', 'History', 'English', 'Computer Science']",2.86,City 5,A+,True
+Student 635,24,"['Mathematics', 'English']",3.61,,B+,True
+Student 239,25,"['English', 'History', 'Physics']",3.37,City 2,,True
+Student 273,22,"['History', 'Physics']",3.13,,A+,True
+Student 623,24,"['Mathematics', 'History']",3.23,City 5,B-,False
+Student 352,20,"['Mathematics', 'Physics', 'History']",2.95,City 5,AB-,True
+Student 678,20,"['Physics', 'English', 'Computer Science']",3.08,City 3,A-,False
+Student 361,21,"['Computer Science', 'English', 'Mathematics', 'History']",3.98,City 5,O-,True
+Student 871,24,"['English', 'History', 'Physics', 'Computer Science']",2.62,,AB+,True
+Student 303,20,"['Physics', 'English']",3.08,City 2,B+,False
+Student 517,24,"['History', 'Computer Science']",3.67,,A-,True
+Student 136,25,"['History', 'Mathematics', 'Computer Science', 'Physics']",3.91,,A+,True
+Student 116,18,"['English', 'History', 'Physics', 'Mathematics']",2.99,City 8,O-,True
+Student 491,19,"['Physics', 'Mathematics', 'English', 'Computer Science']",3.83,City 3,O-,False
+Student 805,22,"['Computer Science', 'Physics']",3.87,City 8,AB+,True
+Student 845,20,"['English', 'Mathematics', 'Physics']",2.96,City 10,O+,False
+Student 373,23,"['Mathematics', 'Computer Science', 'English']",2.08,City 6,B+,True
+Student 890,24,"['Computer Science', 'Physics']",3.03,City 5,O+,False
+Student 805,25,"['Physics', 'Computer Science', 'History']",3.19,City 9,B+,False
+Student 880,24,"['Computer Science', 'Mathematics', 'English', 'Physics']",2.38,,A-,False
+Student 341,23,"['Mathematics', 'Computer Science']",2.86,City 2,O+,True
+Student 918,23,"['Mathematics', 'History']",3.97,City 10,A+,False
+Student 421,18,"['Physics', 'Mathematics', 'English']",2.06,City 6,AB-,True
+Student 401,24,"['English', 'Physics']",2.81,City 1,AB+,False
+Student 510,25,"['Physics', 'English', 'Mathematics']",3.94,City 3,O-,True
+Student 922,25,"['English', 'History', 'Physics']",3.68,City 5,O+,False
+Student 166,24,"['History', 'Physics', 'English', 'Mathematics']",3.43,City 5,B+,False
+Student 360,23,"['History', 'Physics']",3.25,City 3,A-,True
+Student 861,21,"['English', 'History', 'Mathematics', 'Computer Science']",2.85,City 9,B-,False
+Student 529,20,"['Computer Science', 'English', 'Mathematics', 'Physics']",3.17,City 1,AB-,False
+Student 613,24,"['Computer Science', 'Mathematics', 'History']",2.57,City 4,,True
+Student 146,18,"['Computer Science', 'English', 'Physics']",2.54,City 2,,True
+Student 234,23,"['Computer Science', 'English', 'History', 'Mathematics']",2.6,City 6,AB-,True
+Student 917,23,"['Physics', 'Computer Science', 'English']",3.73,City 3,AB+,False
+Student 729,18,"['Mathematics', 'Computer Science']",2.5,,B+,False
+Student 201,24,"['Computer Science', 'English']",3.53,City 2,O+,True
+Student 125,24,"['Physics', 'English', 'Mathematics', 'History']",3.57,,O-,True
+Student 164,23,"['Physics', 'Computer Science', 'Mathematics']",2.41,,B-,True
+Student 351,19,"['History', 'Mathematics']",2.77,,AB+,False
+Student 496,21,"['History', 'Computer Science', 'English']",3.42,City 2,B-,True
+Student 484,21,"['English', 'Mathematics']",3.13,City 10,O-,False
+Student 237,19,"['Physics', 'Mathematics', 'English', 'Computer Science']",2.65,City 3,B+,False
+Student 594,19,"['Mathematics', 'Physics', 'History', 'Computer Science']",2.92,,A+,True
+Student 765,22,"['History', 'Mathematics']",2.16,City 2,A+,True
+Student 460,24,"['Computer Science', 'Physics', 'English']",2.71,City 4,O+,True
+Student 190,21,"['English', 'History', 'Mathematics']",3.77,City 2,O-,True
+Student 768,25,"['Computer Science', 'Physics', 'English']",3.48,City 1,B+,False
+Student 462,20,"['History', 'Physics']",3.82,,O-,True
+Student 350,24,"['History', 'English']",2.88,,B+,True
+Student 137,18,"['History', 'English', 'Mathematics', 'Physics']",2.79,City 10,,True
+Student 384,19,"['Computer Science', 'English']",2.87,,AB-,False
+Student 777,23,"['Mathematics', 'Physics']",3.24,,A-,False
+Student 548,24,"['History', 'Physics', 'Computer Science', 'English']",2.23,,,False
+Student 111,19,"['Mathematics', 'Physics', 'History', 'English']",3.43,,B+,False
+Student 976,21,"['History', 'Computer Science', 'Mathematics', 'Physics']",2.17,,A-,True
+Student 835,22,"['Physics', 'Mathematics']",3.15,City 4,O+,True
+Student 167,25,"['Computer Science', 'Mathematics', 'History', 'English']",2.39,City 10,A+,True
+Student 804,23,"['History', 'Mathematics', 'Physics']",2.53,City 6,A+,True
+Student 416,18,"['History', 'Physics', 'Mathematics', 'English']",2.46,City 9,B-,False
+Student 458,18,"['Physics', 'Mathematics', 'Computer Science', 'English']",3.39,City 7,AB-,True
+Student 344,23,"['Physics', 'Computer Science', 'Mathematics', 'English']",2.13,City 3,B+,False
+Student 434,23,"['Physics', 'Mathematics', 'History']",2.74,,B-,True
+Student 555,25,"['Mathematics', 'Physics']",2.13,City 3,AB-,True
+Student 162,21,"['English', 'Physics', 'Mathematics', 'Computer Science']",2.14,City 10,B-,True
+Student 631,25,"['Mathematics', 'Physics', 'Computer Science']",2.06,City 4,O-,True
+Student 495,18,"['Computer Science', 'Physics', 'History', 'Mathematics']",3.98,,B+,True
+Student 730,24,"['Physics', 'English', 'Mathematics']",3.7,City 6,AB+,True
+Student 924,24,"['Computer Science', 'History']",3.32,City 9,O-,False
+Student 344,23,"['Computer Science', 'Mathematics', 'English']",3.59,City 4,A-,True
+Student 762,20,"['Physics', 'Computer Science', 'History']",2.59,,A+,True
+Student 958,18,"['English', 'Physics', 'Mathematics']",2.02,,A+,True
+Student 759,25,"['Physics', 'Mathematics']",3.47,City 9,AB+,False
+Student 131,24,"['Computer Science', 'English', 'Mathematics']",2.51,City 6,O-,True
+Student 714,23,"['English', 'Physics', 'Mathematics']",2.71,City 2,O-,True
+Student 423,21,"['Computer Science', 'Physics', 'History']",3.62,,O-,True
+Student 879,23,"['Mathematics', 'English']",3.89,City 8,B-,False
+Student 645,22,"['Mathematics', 'History', 'Physics', 'Computer Science']",2.58,,O+,True
+Student 602,21,"['English', 'Mathematics', 'Computer Science', 'Physics']",2.53,City 7,AB+,False
+Student 707,20,"['History', 'Mathematics']",3.02,City 1,O+,True
+Student 145,22,"['English', 'Physics', 'Mathematics', 'History']",3.51,City 9,B-,False
+Student 946,18,"['Physics', 'Computer Science', 'English', 'Mathematics']",3.74,,O+,False
+Student 211,19,"['English', 'History']",3.71,City 9,B+,False
+Student 684,21,"['Physics', 'English']",2.47,City 6,A+,False
+Student 540,18,"['Mathematics', 'Physics', 'History', 'Computer Science']",2.65,,A+,True
+Student 353,21,"['English', 'Mathematics', 'Physics']",3.04,City 8,AB-,False
+Student 720,18,"['Computer Science', 'Mathematics', 'English']",2.5,City 8,AB+,True
+Student 973,19,"['History', 'Mathematics']",3.05,City 3,B-,True
+Student 761,19,"['Physics', 'Computer Science', 'Mathematics']",3.23,,AB+,False
+Student 466,22,"['History', 'English', 'Mathematics']",3.25,,O+,True
+Student 708,25,"['History', 'English', 'Physics']",2.81,City 2,O+,True
+Student 410,22,"['English', 'Mathematics']",2.35,City 9,A+,True
+Student 260,21,"['Mathematics', 'English']",2.14,City 6,A+,True
+Student 645,23,"['English', 'Computer Science']",2.68,City 10,AB+,True
+Student 961,18,"['Computer Science', 'Mathematics', 'English', 'History']",2.41,City 10,A+,False
+Student 206,21,"['Computer Science', 'Mathematics', 'History']",3.91,City 5,B-,True
+Student 811,25,"['Computer Science', 'History', 'English', 'Mathematics']",3.29,,,False
+Student 154,25,"['Mathematics', 'Computer Science']",3.0,City 1,B-,True
+Student 610,18,"['Physics', 'Mathematics']",3.56,City 9,AB-,False
+Student 981,23,"['History', 'Mathematics', 'English']",3.13,City 1,B-,False
+Student 220,21,"['English', 'Mathematics', 'Computer Science']",3.76,City 7,A-,True
+Student 581,19,"['Mathematics', 'History']",3.29,City 9,B+,True
+Student 108,23,"['Mathematics', 'History', 'English', 'Physics']",2.26,City 7,O-,False
+Student 584,20,"['Mathematics', 'English']",2.13,,B+,False
+Student 550,19,"['Mathematics', 'History']",2.23,City 4,B-,True
+Student 401,22,"['History', 'Mathematics', 'English']",3.21,City 5,B+,True
+Student 870,19,"['English', 'Computer Science']",2.32,,A+,False
+Student 210,20,"['English', 'Physics']",2.07,,A+,False
+Student 426,24,"['Computer Science', 'English', 'Mathematics']",2.93,City 9,B+,True
+Student 567,22,"['History', 'English', 'Physics']",3.48,City 3,B+,False
+Student 154,25,"['Mathematics', 'English', 'Physics']",3.51,City 6,O+,False
+Student 682,23,"['English', 'Computer Science']",2.26,City 5,A-,False
+Student 872,24,"['English', 'Mathematics', 'History']",3.36,City 2,B+,True
+Student 457,19,"['English', 'Physics']",3.8,City 9,A-,True
+Student 723,24,"['Physics', 'Computer Science']",2.93,City 8,B-,False
+Student 567,22,"['Computer Science', 'History', 'English', 'Mathematics']",2.01,City 5,A+,True
+Student 859,18,"['English', 'Computer Science', 'Mathematics', 'History']",3.2,,A-,True
+Student 841,24,"['Computer Science', 'English']",3.7,City 3,B+,False
+Student 232,18,"['History', 'English', 'Computer Science']",3.35,,AB+,False
+Student 128,23,"['Mathematics', 'History', 'English', 'Computer Science']",2.63,,O-,False
+Student 520,24,"['Physics', 'Mathematics', 'History', 'Computer Science']",3.75,City 8,A-,True
+Student 251,21,"['Mathematics', 'English', 'Computer Science', 'Physics']",3.27,City 6,B-,False
+Student 566,23,"['History', 'Mathematics', 'Computer Science', 'Physics']",3.66,City 1,B-,True
+Student 630,23,"['English', 'Physics', 'Computer Science']",3.72,City 9,O+,True
+Student 135,25,"['English', 'Physics', 'History', 'Computer Science']",2.06,,O-,False
+Student 733,24,"['Physics', 'Computer Science', 'History', 'Mathematics']",2.75,City 3,B-,False
+Student 748,19,"['Mathematics', 'Physics', 'Computer Science']",2.61,City 6,AB+,False
+Student 100,19,"['History', 'English', 'Physics']",3.36,,B+,False
+Student 824,25,"['History', 'English', 'Mathematics']",3.59,City 5,AB-,True
+Student 980,20,"['Computer Science', 'English', 'Physics']",3.69,City 9,A+,True
+Student 193,19,"['English', 'Physics', 'History', 'Computer Science']",3.91,City 8,B-,False
+Student 499,19,"['Mathematics', 'History', 'Computer Science', 'Physics']",3.52,City 1,A-,True
+Student 629,22,"['Physics', 'Mathematics']",2.61,City 9,AB+,False
+Student 444,23,"['English', 'Mathematics', 'History', 'Physics']",3.11,,A+,True
+Student 893,22,"['History', 'Physics']",2.46,City 8,,False
+Student 411,25,"['English', 'Mathematics', 'Physics']",3.08,,O-,True
+Student 492,24,"['Physics', 'English', 'History', 'Mathematics']",2.03,,B-,False
+Student 529,25,"['History', 'Physics', 'Mathematics', 'English']",2.91,,O+,True
+Student 297,20,"['Computer Science', 'English', 'Physics', 'Mathematics']",3.81,,AB-,True
+Student 441,22,"['Computer Science', 'English']",2.15,,,True
+Student 149,24,"['Physics', 'History', 'Computer Science']",3.71,City 5,B-,False
+Student 368,19,"['English', 'Computer Science', 'Mathematics']",2.36,City 3,O+,True
+Student 199,21,"['Physics', 'English', 'Computer Science', 'Mathematics']",2.79,City 2,A+,False
+Student 797,22,"['English', 'Physics', 'Computer Science', 'History']",3.55,,,False
+Student 386,22,"['Physics', 'Mathematics', 'Computer Science', 'History']",2.2,City 6,AB+,False
+Student 839,25,"['Physics', 'Computer Science', 'English', 'History']",3.75,City 10,O+,True
+Student 890,21,"['Computer Science', 'Physics', 'Mathematics']",3.01,City 4,AB+,False
+Student 718,21,"['Computer Science', 'English']",2.25,City 5,O-,True
+Student 143,21,"['Mathematics', 'Computer Science', 'English', 'History']",2.28,City 4,O-,True
+Student 651,24,"['Physics', 'History', 'Computer Science', 'Mathematics']",3.73,City 10,,False
+Student 831,20,"['Mathematics', 'Computer Science']",3.49,City 3,AB+,True
+Student 337,23,"['Mathematics', 'Physics', 'English', 'History']",2.37,City 1,O+,False
+Student 570,18,"['Physics', 'Computer Science', 'English']",2.96,City 4,,False
+Student 799,18,"['Physics', 'Computer Science']",3.85,City 1,AB+,False
+Student 995,18,"['Computer Science', 'Physics']",2.31,,AB-,False
+Student 780,18,"['Mathematics', 'English', 'Computer Science', 'Physics']",2.86,City 7,B-,False
+Student 933,18,"['Mathematics', 'English', 'Physics', 'History']",2.54,City 10,B-,True
+Student 591,20,"['Mathematics', 'History', 'English']",2.27,City 4,AB+,False
