@@ -1,0 +1,57 @@
+[
+    {
+        "_id": 1,
+        "name": "Coffee Shop A",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -73.985,
+                40.748
+            ]
+        }
+    },
+    {
+        "_id": 2,
+        "name": "Restaurant B",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -74.009,
+                40.712
+            ]
+        }
+    },
+    {
+        "_id": 3,
+        "name": "Library C",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.036,
+                38.907
+            ]
+        }
+    },
+    {
+        "_id": 4,
+        "name": "Museum D",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -80.843,
+                34.26
+            ]
+        }
+    },
+    {
+        "_id": 5,
+        "name": "Park E",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -74.006,
+                40.705
+            ]
+        }
+    }
+]
